@@ -28,7 +28,7 @@
   </upsell>
   
   <cheats>
-    <enabled>false</enabled>
+    <enabled>true</enabled>
     
     <bind keyCombo="`">globalPause</bind>
     <!-- Framework controls -->
@@ -60,4 +60,5 @@
     <bind keyCombo="u">unlockAllModes</bind>
   </cheats>
   
+
 </data>
